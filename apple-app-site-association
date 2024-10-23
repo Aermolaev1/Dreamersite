@@ -4,9 +4,7 @@
         "details": [
             {
                 "appID": "CTLVU24S33.com.luma.ai.video.dreamer",
-                "paths": [
-                    "/i/*"
-                ]
+                "paths":["*"]
             }
         ]
     }
